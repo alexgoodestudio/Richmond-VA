@@ -3,7 +3,7 @@
 # Richmond-VA
 
 ## Overview
-The Richmond-VA project is a repository hosted on GitHub. While the specific purpose or functionality of the project isn't explicitly mentioned, it seems to involve web development based on the files and technologies used.
+The Richmond-VA project. A WIP website deicated to showing people the awesome things Richmond VA has to offer!
 
 ## Skills and Technologies
 - **Flexbox**: A layout model that allows items in a container to be dynamically arranged in a predictable way.
